@@ -75,21 +75,37 @@ This project performs a comprehensive **Exploratory Data Analysis (EDA)** and bu
 └─────────────┴───────┴────────────┘
 ## 📁 Project Structure
 hr-attrition-analysis/
+
 │
+
 ├── 📂 data/
+
 │ └── WA_Fn-UseC_-HR-Employee-Attrition.csv
+
 │
+
 ├── 📂 notebooks/
+
 │ └── HR_Attrition_Analysis.ipynb
+
 │
+
 ├── 📂 images/
+
 │ ├── attrition_distribution.png
+
 │ ├── correlation_heatmap.png
+
 │ ├── feature_importance.png
+
 │ └── confusion_matrix.png
+
 │
+
 ├── 📄 README.md
+
 ├── 📄 requirements.txt
+
 └── 📄 LICENSE
 
 
